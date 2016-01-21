@@ -1,0 +1,78 @@
+//Ze salamander drum library
+//Kick =====================================
+<group> volume=-7 amp_veltrack=93 key=35 loop_mode=one_shot lovel=80 hivel=127
+<region> sample=OH\kick_OH_FF_1.wav lorand=0 hirand=0.08
+<region> sample=OH\kick_OH_FF_2.wav lorand=0.08 hirand=0.16
+<region> sample=OH\kick_OH_FF_3.wav lorand=0.16 hirand=0.24
+<region> sample=OH\kick_OH_FF_4.wav lorand=0.24 hirand=0.32
+<region> sample=OH\kick_OH_FF_5.wav lorand=0.32 hirand=0.4
+<region> sample=OH\kick_OH_FF_6.wav lorand=0.4 hirand=0.48
+<region> sample=OH\kick_OH_FF_7.wav lorand=0.48 hirand=0.56
+<region> sample=OH\kick_OH_FF_8.wav lorand=0.56 hirand=0.64
+<region> sample=OH\kick_OH_FF_9.wav lorand=0.64 hirand=0.72
+<region> sample=OH\kick_OH_FF_10.wav lorand=0.72 hirand=0.80
+<region> sample=OH\kick_OH_FF_11.wav lorand=0.80 hirand=0.90
+<region> sample=OH\kick_OH_FF_12.wav lorand=0.90 hirand=1
+
+<group> volume=-7 amp_veltrack=93 key=35 loop_mode=one_shot lovel=40 hivel=79
+<region> sample=OH\kick_OH_F_1.wav lorand=0 hirand=0.09
+<region> sample=OH\kick_OH_F_2.wav lorand=0.09 hirand=0.18
+<region> sample=OH\kick_OH_F_3.wav lorand=0.18 hirand=0.27
+<region> sample=OH\kick_OH_F_4.wav lorand=0.27 hirand=0.36
+<region> sample=OH\kick_OH_F_5.wav lorand=0.36 hirand=0.46
+<region> sample=OH\kick_OH_F_6.wav lorand=0.46 hirand=0.54
+<region> sample=OH\kick_OH_F_7.wav lorand=0.54 hirand=0.63
+<region> sample=OH\kick_OH_F_8.wav lorand=0.63 hirand=0.72
+<region> sample=OH\kick_OH_F_9.wav lorand=0.72 hirand=0.81
+<region> sample=OH\kick_OH_F_10.wav lorand=0.81 hirand=0.9
+<region> sample=OH\kick_OH_F_11.wav lorand=0.9 hirand=1
+
+<group> volume=-7 amp_veltrack=93 key=35 loop_mode=one_shot lovel=1 hivel=39 
+<region> sample=OH\kick_OH_P_1.wav lorand=0 hirand=0.11
+<region> sample=OH\kick_OH_P_2.wav lorand=0.11 hirand=0.22
+<region> sample=OH\kick_OH_P_3.wav lorand=0.22 hirand=0.33
+<region> sample=OH\kick_OH_P_4.wav lorand=0.33 hirand=0.44
+<region> sample=OH\kick_OH_P_5.wav lorand=0.44 hirand=0.55
+<region> sample=OH\kick_OH_P_6.wav lorand=0.55 hirand=0.66
+<region> sample=OH\kick_OH_P_7.wav lorand=0.66 hirand=0.77
+<region> sample=OH\kick_OH_P_8.wav lorand=0.77 hirand=0.89
+<region> sample=OH\kick_OH_P_9.wav lorand=0.89 hirand=1
+
+//Kick2!!! ==2=====2=======2======2=====2===2===2======
+<group> volume=-7 amp_veltrack=93 key=36 loop_mode=one_shot lovel=80 hivel=127
+<region> sample=OH\kick2_OH_FF_1.wav lorand=0 hirand=0.08
+<region> sample=OH\kick2_OH_FF_2.wav lorand=0.08 hirand=0.16
+<region> sample=OH\kick2_OH_FF_3.wav lorand=0.16 hirand=0.24
+<region> sample=OH\kick2_OH_FF_4.wav lorand=0.24 hirand=0.32
+<region> sample=OH\kick2_OH_FF_5.wav lorand=0.32 hirand=0.4
+<region> sample=OH\kick2_OH_FF_6.wav lorand=0.4 hirand=0.48
+<region> sample=OH\kick2_OH_FF_7.wav lorand=0.48 hirand=0.56
+<region> sample=OH\kick2_OH_FF_8.wav lorand=0.56 hirand=0.64
+<region> sample=OH\kick2_OH_FF_9.wav lorand=0.64 hirand=0.72
+<region> sample=OH\kick2_OH_FF_10.wav lorand=0.72 hirand=0.80
+<region> sample=OH\kick2_OH_FF_11.wav lorand=0.80 hirand=0.90
+<region> sample=OH\kick2_OH_FF_12.wav lorand=0.90 hirand=1
+
+<group> volume=-7 amp_veltrack=93 key=36 loop_mode=one_shot lovel=40 hivel=79
+<region> sample=OH\kick2_OH_F_1.wav lorand=0 hirand=0.09
+<region> sample=OH\kick2_OH_F_2.wav lorand=0.09 hirand=0.18
+<region> sample=OH\kick2_OH_F_3.wav lorand=0.18 hirand=0.27
+<region> sample=OH\kick2_OH_F_4.wav lorand=0.27 hirand=0.36
+<region> sample=OH\kick2_OH_F_5.wav lorand=0.36 hirand=0.46
+<region> sample=OH\kick2_OH_F_6.wav lorand=0.46 hirand=0.54
+<region> sample=OH\kick2_OH_F_7.wav lorand=0.54 hirand=0.63
+<region> sample=OH\kick2_OH_F_8.wav lorand=0.63 hirand=0.72
+<region> sample=OH\kick2_OH_F_9.wav lorand=0.72 hirand=0.81
+<region> sample=OH\kick2_OH_F_10.wav lorand=0.81 hirand=0.9
+<region> sample=OH\kick2_OH_F_11.wav lorand=0.9 hirand=1
+
+<group> volume=-7 amp_veltrack=93 key=36 loop_mode=one_shot lovel=1 hivel=39 //9 samples random
+<region> sample=OH\kick2_OH_P_1.wav lorand=0 hirand=0.11
+<region> sample=OH\kick2_OH_P_2.wav lorand=0.11 hirand=0.22
+<region> sample=OH\kick2_OH_P_3.wav lorand=0.22 hirand=0.33
+<region> sample=OH\kick2_OH_P_4.wav lorand=0.33 hirand=0.44
+<region> sample=OH\kick2_OH_P_5.wav lorand=0.44 hirand=0.55
+<region> sample=OH\kick2_OH_P_6.wav lorand=0.55 hirand=0.66
+<region> sample=OH\kick2_OH_P_7.wav lorand=0.66 hirand=0.77
+<region> sample=OH\kick2_OH_P_8.wav lorand=0.77 hirand=0.89
+<region> sample=OH\kick2_OH_P_9.wav lorand=0.89 hirand=1

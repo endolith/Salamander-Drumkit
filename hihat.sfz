@@ -1,0 +1,194 @@
+//Hihat closed ========================================
+
+<group> volume=-15 amp_veltrack=100 key=42 loop_mode=one_shot lovel=66 hivel=127	// hihat closed ////20 Samples Random!
+<region> sample=OH\hihatClosed_OH_F_1.wav lorand=0 hirand=0.05
+<region> sample=OH\hihatClosed_OH_F_2.wav lorand=0.05 hirand=0.1
+<region> sample=OH\hihatClosed_OH_F_3.wav lorand=0.1 hirand=0.15
+<region> sample=OH\hihatClosed_OH_F_4.wav lorand=0.15 hirand=0.2
+<region> sample=OH\hihatClosed_OH_F_5.wav lorand=0.2 hirand=0.25
+<region> sample=OH\hihatClosed_OH_F_6.wav lorand=0.25 hirand=0.3
+<region> sample=OH\hihatClosed_OH_F_7.wav lorand=0.3 hirand=0.35
+<region> sample=OH\hihatClosed_OH_F_8.wav lorand=0.35 hirand=0.4
+<region> sample=OH\hihatClosed_OH_F_9.wav lorand=0.4 hirand=0.45
+<region> sample=OH\hihatClosed_OH_F_10.wav lorand=0.45 hirand=0.5
+<region> sample=OH\hihatClosed_OH_F_11.wav lorand=0.5 hirand=0.55
+<region> sample=OH\hihatClosed_OH_F_12.wav lorand=0.55 hirand=0.60
+<region> sample=OH\hihatClosed_OH_F_13.wav lorand=0.60 hirand=0.65
+<region> sample=OH\hihatClosed_OH_F_14.wav lorand=0.65 hirand=0.70
+<region> sample=OH\hihatClosed_OH_F_15.wav lorand=0.70 hirand=0.75
+<region> sample=OH\hihatClosed_OH_F_16.wav lorand=0.75 hirand=0.80
+<region> sample=OH\hihatClosed_OH_F_17.wav lorand=0.80 hirand=0.85
+<region> sample=OH\hihatClosed_OH_F_18.wav lorand=0.85 hirand=0.90
+<region> sample=OH\hihatClosed_OH_F_19.wav lorand=0.90 hirand=0.95
+<region> sample=OH\hihatClosed_OH_F_20.wav lorand=0.95 hirand=1
+
+<group> volume=-15 amp_veltrack=100 key=42 loop_mode=one_shot lovel=1 hivel=65 // hihat closed ////20 Samples Random!
+<region> sample=OH\hihatClosed_OH_P_1.wav lorand=0 hirand=0.05
+<region> sample=OH\hihatClosed_OH_P_2.wav lorand=0.05 hirand=0.1
+<region> sample=OH\hihatClosed_OH_P_3.wav lorand=0.1 hirand=0.15
+<region> sample=OH\hihatClosed_OH_P_4.wav lorand=0.15 hirand=0.2
+<region> sample=OH\hihatClosed_OH_P_5.wav lorand=0.2 hirand=0.25
+<region> sample=OH\hihatClosed_OH_P_6.wav lorand=0.25 hirand=0.3
+<region> sample=OH\hihatClosed_OH_P_7.wav lorand=0.3 hirand=0.35
+<region> sample=OH\hihatClosed_OH_P_8.wav lorand=0.35 hirand=0.4
+<region> sample=OH\hihatClosed_OH_P_9.wav lorand=0.4 hirand=0.45
+<region> sample=OH\hihatClosed_OH_P_10.wav lorand=0.45 hirand=0.5
+<region> sample=OH\hihatClosed_OH_P_11.wav lorand=0.5 hirand=0.55
+<region> sample=OH\hihatClosed_OH_P_12.wav lorand=0.55 hirand=0.60
+<region> sample=OH\hihatClosed_OH_P_13.wav lorand=0.60 hirand=0.65
+<region> sample=OH\hihatClosed_OH_P_14.wav lorand=0.65 hirand=0.70
+<region> sample=OH\hihatClosed_OH_P_15.wav lorand=0.70 hirand=0.75
+<region> sample=OH\hihatClosed_OH_P_16.wav lorand=0.75 hirand=0.80
+<region> sample=OH\hihatClosed_OH_P_17.wav lorand=0.80 hirand=0.85
+<region> sample=OH\hihatClosed_OH_P_18.wav lorand=0.85 hirand=0.90
+<region> sample=OH\hihatClosed_OH_P_19.wav lorand=0.90 hirand=0.95
+<region> sample=OH\hihatClosed_OH_P_20.wav lorand=0.95 hirand=1
+
+//Hihat Foot =========================================
+<group> volume=-19 amp_veltrack=100 key=44 loop_mode=one_shot lovel=1 hivel=99 group=1 // hihat foot ///12 Samples Random!
+<region> sample=OH\hihatFoot_OH_MP_1.wav lorand=0 hirand=0.08
+<region> sample=OH\hihatFoot_OH_MP_2.wav lorand=0.08 hirand=0.16
+<region> sample=OH\hihatFoot_OH_MP_3.wav lorand=0.16 hirand=0.24
+<region> sample=OH\hihatFoot_OH_MP_4.wav lorand=0.24 hirand=0.32
+<region> sample=OH\hihatFoot_OH_MP_5.wav lorand=0.32 hirand=0.4
+<region> sample=OH\hihatFoot_OH_MP_6.wav lorand=0.4 hirand=0.48
+<region> sample=OH\hihatFoot_OH_MP_7.wav lorand=0.48 hirand=0.56
+<region> sample=OH\hihatFoot_OH_MP_8.wav lorand=0.56 hirand=0.64
+<region> sample=OH\hihatFoot_OH_MP_9.wav lorand=0.64 hirand=0.72
+<region> sample=OH\hihatFoot_OH_MP_10.wav lorand=0.72 hirand=0.80
+<region> sample=OH\hihatFoot_OH_MP_11.wav lorand=0.80 hirand=0.90
+<region> sample=OH\hihatFoot_OH_MP_12.wav lorand=0.90 hirand=1
+
+//Hihat FootStomp
+<group> volume=-20 amp_veltrack=100 key=44 loop_mode=one_shot lovel=100 hivel=127 group=1 // hihat foot ///12 Samples Random!
+<region> sample=OH\hihatFootStomp_OH_MP_1.wav lorand=0 hirand=0.25
+<region> sample=OH\hihatFootStomp_OH_MP_2.wav lorand=0.25 hirand=0.5
+<region> sample=OH\hihatFootStomp_OH_MP_3.wav lorand=0.5 hirand=0.75
+<region> sample=OH\hihatFootStomp_OH_MP_4.wav lorand=0.75 hirand=1
+
+
+
+//Hihat SemiOpen
+<group> volume=-13 amp_veltrack=100 ampeg_release=0.3 key=42 loop_mode=one_shot lovel=64 hivel=127 off_mode=normal locc64=2 hicc64=18 off_by=1
+<region> sample=OH\hihatSemiOpen1_OH_F_1.wav lorand=0 hirand=0.2
+<region> sample=OH\hihatSemiOpen1_OH_F_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\hihatSemiOpen1_OH_F_3.wav lorand=0.4 hirand=0.6
+<region> sample=OH\hihatSemiOpen1_OH_F_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatSemiOpen1_OH_F_5.wav lorand=0.8 hirand=1
+
+<group> volume=-13 amp_veltrack=100 ampeg_release=0.3 key=42 loop_mode=one_shot lovel=1 hivel=63 off_mode=normal locc64=2 hicc64=18 off_by=1
+<region> sample=OH\hihatSemiOpen1_OH_P_1.wav lorand=0 hirand=0.2
+<region> sample=OH\hihatSemiOpen1_OH_P_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\hihatSemiOpen1_OH_P_3.wav lorand=0.4 hirand=0.6
+<region> sample=OH\hihatSemiOpen1_OH_P_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatSemiOpen1_OH_P_5.wav lorand=0.8 hirand=1
+//========================================================================
+<group> volume=-13 amp_veltrack=100 ampeg_release=0.3 key=42 loop_mode=one_shot lovel=64 hivel=127 off_mode=normal locc64=19 hicc64=36 off_by=1
+<region> sample=OH\hihatSemiOpen2_OH_F_1.wav lorand=0 hirand=0.2
+<region> sample=OH\hihatSemiOpen2_OH_F_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\hihatSemiOpen2_OH_F_3.wav lorand=0.4 hirand=0.6
+<region> sample=OH\hihatSemiOpen2_OH_F_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatSemiOpen2_OH_F_5.wav lorand=0.8 hirand=1
+
+<group> volume=-13 amp_veltrack=100 ampeg_release=0.3 key=42 loop_mode=one_shot lovel=1 hivel=63 off_mode=normal locc64=19 hicc64=36 off_by=1
+<region> sample=OH\hihatSemiOpen2_OH_P_1.wav lorand=0 hirand=0.2
+<region> sample=OH\hihatSemiOpen2_OH_P_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\hihatSemiOpen2_OH_P_3.wav lorand=0.4 hirand=0.6
+<region> sample=OH\hihatSemiOpen2_OH_P_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatSemiOpen2_OH_P_5.wav lorand=0.8 hirand=1
+//========================================================================
+<group> volume=-13 amp_veltrack=100 ampeg_release=0.3 key=42 loop_mode=one_shot lovel=64 hivel=127 off_mode=normal locc64=37 hicc64=54 off_by=1
+<region> sample=OH\hihatSemiOpen3_OH_F_1.wav lorand=0 hirand=0.2
+<region> sample=OH\hihatSemiOpen3_OH_F_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\hihatSemiOpen3_OH_F_3.wav lorand=0.4 hirand=0.6
+<region> sample=OH\hihatSemiOpen3_OH_F_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatSemiOpen3_OH_F_5.wav lorand=0.8 hirand=1
+
+<group> volume=-13 amp_veltrack=100 ampeg_release=0.3 key=42 loop_mode=one_shot lovel=1 hivel=63 off_mode=normal locc64=37 hicc64=54 off_by=1
+<region> sample=OH\hihatSemiOpen3_OH_P_1.wav lorand=0 hirand=0.2
+<region> sample=OH\hihatSemiOpen3_OH_P_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\hihatSemiOpen3_OH_P_3.wav lorand=0.4 hirand=0.6
+<region> sample=OH\hihatSemiOpen3_OH_P_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatSemiOpen3_OH_P_5.wav lorand=0.8 hirand=1
+//========================================================================
+<group> volume=-13 amp_veltrack=100 ampeg_release=0.3 key=42 loop_mode=one_shot lovel=64 hivel=127 off_mode=normal locc64=55 hicc64=72 off_by=1
+<region> sample=OH\hihatSemiOpen4_OH_F_1.wav lorand=0 hirand=0.2
+<region> sample=OH\hihatSemiOpen4_OH_F_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\hihatSemiOpen4_OH_F_3.wav lorand=0.4 hirand=0.6
+<region> sample=OH\hihatSemiOpen4_OH_F_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatSemiOpen4_OH_F_5.wav lorand=0.8 hirand=1
+
+<group> volume=-13 amp_veltrack=100 ampeg_release=0.3 key=42 loop_mode=one_shot lovel=1 hivel=63 off_mode=normal locc64=55 hicc64=72 off_by=1
+<region> sample=OH\hihatSemiOpen4_OH_P_1.wav lorand=0 hirand=0.2
+<region> sample=OH\hihatSemiOpen4_OH_P_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\hihatSemiOpen4_OH_P_3.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatSemiOpen4_OH_P_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatSemiOpen4_OH_P_5.wav lorand=0.8 hirand=1
+//========================================================================
+<group> volume=-13 amp_veltrack=100 ampeg_release=0.3 key=42 loop_mode=one_shot lovel=64 hivel=127 off_mode=normal locc64=73 hicc64=90 off_by=1
+<region> sample=OH\hihatSemiOpen5_OH_F_1.wav lorand=0 hirand=0.2
+<region> sample=OH\hihatSemiOpen5_OH_F_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\hihatSemiOpen5_OH_F_3.wav lorand=0.4 hirand=0.6
+<region> sample=OH\hihatSemiOpen5_OH_F_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatSemiOpen5_OH_F_5.wav lorand=0.8 hirand=1
+
+<group> volume=-13 amp_veltrack=100 ampeg_release=0.3 key=42 loop_mode=one_shot lovel=1 hivel=63 off_mode=normal locc64=73 hicc64=90 off_by=1
+<region> sample=OH\hihatSemiOpen5_OH_P_1.wav lorand=0 hirand=0.2
+<region> sample=OH\hihatSemiOpen5_OH_P_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\hihatSemiOpen5_OH_P_3.wav lorand=0.4 hirand=0.6
+<region> sample=OH\hihatSemiOpen5_OH_P_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatSemiOpen5_OH_P_5.wav lorand=0.8 hirand=1
+//========================================================================
+<group> volume=-13 amp_veltrack=100 ampeg_release=0.3 key=42 loop_mode=one_shot lovel=64 hivel=127 off_mode=normal locc64=91 hicc64=108 off_by=1
+<region> sample=OH\hihatSemiOpen6_OH_F_1.wav lorand=0 hirand=0.2
+<region> sample=OH\hihatSemiOpen6_OH_F_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\hihatSemiOpen6_OH_F_3.wav lorand=0.4 hirand=0.6
+<region> sample=OH\hihatSemiOpen6_OH_F_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatSemiOpen6_OH_F_5.wav lorand=0.8 hirand=1
+
+<group> volume=-13 amp_veltrack=100 ampeg_release=0.3 key=42 loop_mode=one_shot lovel=1 hivel=63 off_mode=normal locc64=91 hicc64=108 off_by=1
+<region> sample=OH\hihatSemiOpen6_OH_P_1.wav lorand=0 hirand=0.2
+<region> sample=OH\hihatSemiOpen6_OH_P_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\hihatSemiOpen6_OH_P_3.wav lorand=0.4 hirand=0.6
+<region> sample=OH\hihatSemiOpen6_OH_P_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatSemiOpen6_OH_P_5.wav lorand=0.8 hirand=1
+//========================================================================
+<group> volume=-13 amp_veltrack=100 ampeg_release=0.3 key=42 loop_mode=one_shot lovel=64 hivel=127 locc64=109 hicc64=127 off_mode=normal off_by=1
+<region> sample=OH\hihatSemiOpen7_OH_F_1.wav lorand=0 hirand=0.2
+<region> sample=OH\hihatSemiOpen7_OH_F_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\hihatSemiOpen7_OH_F_3.wav lorand=0.4 hirand=0.6
+<region> sample=OH\hihatSemiOpen7_OH_F_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatSemiOpen7_OH_F_5.wav lorand=0.8 hirand=1
+
+<group> volume=-13 amp_veltrack=100 ampeg_release=0.3 key=42 loop_mode=one_shot lovel=1 hivel=63 locc64=109 hicc64=127 off_mode=normal off_by=1
+<region> sample=OH\hihatSemiOpen7_OH_P_1.wav lorand=0 hirand=0.2
+<region> sample=OH\hihatSemiOpen7_OH_P_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\hihatSemiOpen7_OH_P_3.wav lorand=0.4 hirand=0.6
+<region> sample=OH\hihatSemiOpen7_OH_P_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatSemiOpen7_OH_P_5.wav lorand=0.8 hirand=1
+
+
+
+//Hihat open =============================================
+<group> volume=-12 amp_veltrack=99 ampeg_release=0.3 key=46 loop_mode=one_shot lovel=90 hivel=127 off_mode=normal off_by=1 // hihat open ////5 Samples Random!
+<region> sample=OH\hihatOpen_OH_FF_1.wav lorand=0 hirand=0.2
+<region> sample=OH\hihatOpen_OH_FF_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\hihatOpen_OH_FF_3.wav lorand=0.4 hirand=0.6
+<region> sample=OH\hihatOpen_OH_FF_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatOpen_OH_FF_5.wav lorand=0.8 hirand=1
+
+<group> volume=-7 amp_veltrack=96 ampeg_release=0.3 key=46 loop_mode=one_shot lovel=51 hivel=89 off_mode=normal off_by=1 // hihat open ////5 Samples Random!
+<region> sample=OH\hihatOpen_OH_F_1.wav lorand=0 hirand=0.2
+<region> sample=OH\hihatOpen_OH_F_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\hihatOpen_OH_F_3.wav lorand=0.4 hirand=0.6
+<region> sample=OH\hihatOpen_OH_F_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\hihatOpen_OH_F_5.wav lorand=0.8 hirand=1
+
+<group> volume=-5 amp_veltrack=95 ampeg_release=0.3 key=46 loop_mode=one_shot lovel=1 hivel=50 off_mode=normal off_by=1 // hihat open ////7 Samples Random!
+<region> sample=OH\hihatOpen_OH_P_1.wav lorand=0 hirand=0.15
+<region> sample=OH\hihatOpen_OH_P_2.wav lorand=0.15 hirand=0.3
+<region> sample=OH\hihatOpen_OH_P_3.wav lorand=0.3 hirand=0.45
+<region> sample=OH\hihatOpen_OH_P_4.wav lorand=0.45 hirand=60
+<region> sample=OH\hihatOpen_OH_P_5.wav lorand=0.60 hirand=0.75
+<region> sample=OH\hihatOpen_OH_P_6.wav lorand=0.75 hirand=0.88
+<region> sample=OH\hihatOpen_OH_P_7.wav lorand=0.88 hirand=1

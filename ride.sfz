@@ -1,0 +1,71 @@
+//Rides =====================================
+<group> volume=-12 amp_veltrack=100 key=52 loop_mode=one_shot lovel=91 hivel=127		// ride1 ////4 Samples Random!
+<region> sample=OH\ride1_OH_FF_1.wav lorand=0 hirand=0.24
+<region> sample=OH\ride1_OH_FF_2.wav lorand=0.24 hirand=0.48
+<region> sample=OH\ride1_OH_FF_3.wav lorand=0.48 hirand=0.72
+<region> sample=OH\ride1_OH_FF_4.wav lorand=0.72 hirand=1
+
+<group> volume=-12 amp_veltrack=100 key=52 loop_mode=one_shot lovel=1 hivel=90		// ride1 ////8 Samples Random!
+<region> sample=OH\ride1_OH_MP_1.wav lorand=0 hirand=0.12
+<region> sample=OH\ride1_OH_MP_2.wav lorand=0.12 hirand=0.24
+<region> sample=OH\ride1_OH_MP_3.wav lorand=0.24 hirand=0.36
+<region> sample=OH\ride1_OH_MP_4.wav lorand=0.36 hirand=0.48
+<region> sample=OH\ride1_OH_MP_5.wav lorand=0.48 hirand=0.60
+<region> sample=OH\ride1_OH_MP_6.wav lorand=0.60 hirand=0.72
+<region> sample=OH\ride1_OH_MP_7.wav lorand=0.72 hirand=0.84
+<region> sample=OH\ride1_OH_MP_8.wav lorand=0.84 hirand=1
+
+<group> volume=-12 amp_veltrack=100 key=53 loop_mode=one_shot lovel=1 hivel=127		// ride1bell ////6 Samples Random!
+<region> sample=OH\ride1Bell_OH_F_1.wav lorand=0 hirand=0.18
+<region> sample=OH\ride1Bell_OH_F_2.wav lorand=0.18 hirand=0.26
+<region> sample=OH\ride1Bell_OH_F_3.wav lorand=0.26 hirand=0.45
+<region> sample=OH\ride1Bell_OH_F_4.wav lorand=0.45 hirand=0.68
+<region> sample=OH\ride1Bell_OH_F_5.wav lorand=0.68 hirand=0.85
+<region> sample=OH\ride1Bell_OH_F_6.wav lorand=0.85 hirand=1
+
+<group> volume=-12 amp_veltrack=100 key=48 loop_mode=one_shot lovel=81 hivel=127 off_mode=normal off_by=6		// ride2 ////5 Samples Random!
+<region> sample=OH\ride2_OH_FF_1.wav lorand=0 hirand=0.2
+<region> sample=OH\ride2_OH_FF_2.wav lorand=0.2 hirand=0.4
+<region> sample=OH\ride2_OH_FF_3.wav lorand=0.4 hirand=0.6
+<region> sample=OH\ride2_OH_FF_4.wav lorand=0.6 hirand=0.8
+<region> sample=OH\ride2_OH_FF_5.wav lorand=0.8 hirand=1
+
+<group> volume=-12 amp_veltrack=100 key=48 loop_mode=one_shot lovel=31 hivel=80 off_mode=normal off_by=6		// ride2 ////8 Samples Random!
+<region> sample=OH\ride2_OH_MP_1.wav lorand=0 hirand=0.12
+<region> sample=OH\ride2_OH_MP_2.wav lorand=0.12 hirand=0.24
+<region> sample=OH\ride2_OH_MP_3.wav lorand=0.24 hirand=0.36
+<region> sample=OH\ride2_OH_MP_4.wav lorand=0.36 hirand=0.48
+<region> sample=OH\ride2_OH_MP_5.wav lorand=0.48 hirand=0.60
+<region> sample=OH\ride2_OH_MP_6.wav lorand=0.60 hirand=0.72
+<region> sample=OH\ride2_OH_MP_7.wav lorand=0.72 hirand=0.84
+<region> sample=OH\ride2_OH_MP_8.wav lorand=0.84 hirand=1
+
+<group> volume=-12 amp_veltrack=100 key=48 loop_mode=one_shot lovel=1 hivel=30 off_mode=normal off_by=6		// ride2 ////4 Samples Random!
+<region> sample=OH\ride2_OH_PP_1.wav lorand=0 hirand=0.25
+<region> sample=OH\ride2_OH_PP_2.wav lorand=0.25 hirand=0.5
+<region> sample=OH\ride2_OH_PP_3.wav lorand=0.5 hirand=0.75
+<region> sample=OH\ride2_OH_PP_4.wav lorand=0.75 hirand=1
+
+<group> volume=-12 amp_veltrack=100 key=49 loop_mode=one_shot lovel=1 hivel=127 off_mode=normal off_by=6		// ride2bell ////6 Samples Random!
+<region> sample=OH\ride2Bell_OH_F_1.wav lorand=0 hirand=0.18
+<region> sample=OH\ride2Bell_OH_F_2.wav lorand=0.18 hirand=0.26
+<region> sample=OH\ride2Bell_OH_F_3.wav lorand=0.26 hirand=0.45
+<region> sample=OH\ride2Bell_OH_F_4.wav lorand=0.45 hirand=0.68
+<region> sample=OH\ride2Bell_OH_F_5.wav lorand=0.68 hirand=0.85
+<region> sample=OH\ride2Bell_OH_F_6.wav lorand=0.85 hirand=1
+
+<group> volume=-16 amp_veltrack=100 ampeg_release=0.6 key=50 loop_mode=one_shot lovel=60 hivel=127 off_mode=normal off_by=6		// ride2crash ////6 Samples Random!
+<region> sample=OH\ride2Crash_OH_FF_1.wav lorand=0 hirand=0.18
+<region> sample=OH\ride2Crash_OH_FF_2.wav lorand=0.18 hirand=0.26
+<region> sample=OH\ride2Crash_OH_FF_3.wav lorand=0.26 hirand=0.45
+<region> sample=OH\ride2Crash_OH_FF_4.wav lorand=0.45 hirand=0.68
+<region> sample=OH\ride2Crash_OH_FF_5.wav lorand=0.68 hirand=0.85
+<region> sample=OH\ride2Crash_OH_FF_6.wav lorand=0.85 hirand=1
+
+<group> volume=-16 amp_veltrack=100 ampeg_release=0.6 key=50 loop_mode=one_shot lovel=1 hivel=59 off_mode=normal off_by=6		// ride2crash ////3 Samples Random!
+<region> sample=OH\ride2Crash_OH_MP_1.wav lorand=0 hirand=0.33
+<region> sample=OH\ride2Crash_OH_MP_2.wav lorand=0.33 hirand=0.66
+<region> sample=OH\ride2Crash_OH_MP_3.wav lorand=0.66 hirand=1
+
+<group> volume=-30 amp_veltrack=100 loop_mode=one_shot key=51 group=6     // ride2CrashChoke /////
+<region> sample=OH\ride2CrashChoke_OH_F_1.wav 

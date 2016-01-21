@@ -1,0 +1,37 @@
+//HiTom =============================================
+<group> volume=-3 amp_veltrack=100 key=45 loop_mode=one_shot lovel=80 hivel=127 seq_length=12
+<region> sample=OH\hiTom_OH_FF_1.wav seq_position=1
+<region> sample=OH\hiTom_OH_FF_2.wav seq_position=2
+<region> sample=OH\hiTom_OH_FF_3.wav seq_position=3
+<region> sample=OH\hiTom_OH_FF_4.wav seq_position=4
+<region> sample=OH\hiTom_OH_FF_5.wav seq_position=5
+<region> sample=OH\hiTom_OH_FF_6.wav seq_position=6
+<region> sample=OH\hiTom_OH_FF_7.wav seq_position=7
+<region> sample=OH\hiTom_OH_FF_8.wav seq_position=8
+<region> sample=OH\hiTom_OH_FF_9.wav seq_position=9
+<region> sample=OH\hiTom_OH_FF_10.wav seq_position=10
+<region> sample=OH\hiTom_OH_FF_11.wav seq_position=11
+<region> sample=OH\hiTom_OH_FF_12.wav seq_position=12
+
+<group> volume=-3 amp_veltrack=100 key=45 loop_mode=one_shot lovel=31 hivel=79 seq_length=10
+<region> sample=OH\hiTom_OH_F_1.wav seq_position=1
+<region> sample=OH\hiTom_OH_F_2.wav seq_position=2
+<region> sample=OH\hiTom_OH_F_3.wav seq_position=3
+<region> sample=OH\hiTom_OH_F_4.wav seq_position=4
+<region> sample=OH\hiTom_OH_F_5.wav seq_position=5
+<region> sample=OH\hiTom_OH_F_6.wav seq_position=6
+<region> sample=OH\hiTom_OH_F_7.wav seq_position=7
+<region> sample=OH\hiTom_OH_F_8.wav seq_position=8
+<region> sample=OH\hiTom_OH_F_9.wav seq_position=9
+<region> sample=OH\hiTom_OH_F_10.wav seq_position=10
+
+<group> volume=-3 amp_veltrack=100 key=45 loop_mode=one_shot lovel=1 hivel=30 seq_length=9 
+<region> sample=OH\hiTom_OH_P_1.wav seq_position=1
+<region> sample=OH\hiTom_OH_P_2.wav seq_position=2
+<region> sample=OH\hiTom_OH_P_3.wav seq_position=3
+<region> sample=OH\hiTom_OH_P_4.wav seq_position=4
+<region> sample=OH\hiTom_OH_P_5.wav seq_position=5
+<region> sample=OH\hiTom_OH_P_6.wav seq_position=6
+<region> sample=OH\hiTom_OH_P_7.wav seq_position=7
+<region> sample=OH\hiTom_OH_P_8.wav seq_position=8
+<region> sample=OH\hiTom_OH_P_9.wav seq_position=9
