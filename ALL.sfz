@@ -671,9 +671,9 @@
 <region> sample=OH\splash1_OH_P_4.wav lorand=0.6 hirand=0.8
 <region> sample=OH\splash1_OH_P_5.wav lorand=0.8 hirand=1
 
-<group> volume=-15 amp_veltrack=100 key=64 loop_mode=one_shot lovel=60 hivel=127	// bellchime ////5 Samples Random!
+<group> volume=-15 amp_veltrack=100 key=64 loop_mode=one_shot lovel=60 hivel=127	// bellchime ////3 Samples Random!
 <region> sample=OH\bellchime_F_1.wav lorand=0 hirand=0.33
-<region> sample=OH\bellchime_F_2.wav lorand=0.33 hirand=0.66s
+<region> sample=OH\bellchime_F_2.wav lorand=0.33 hirand=0.66
 <region> sample=OH\bellchime_F_3.wav lorand=0.66 hirand=1
 
 //CowBell
