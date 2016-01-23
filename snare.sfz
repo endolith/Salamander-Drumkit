@@ -141,7 +141,7 @@
 <region> sample=OH\snare2_OH_Ghost_10.wav lorand=0.9 hirand=1
 
 //snare2OFF =====================================
-<group> amp_veltrack=98 volume=-2 key=37 loop_mode=one_shot lovel=40 hivel=127 seq_length=10
+<group> amp_veltrack=98 volume=-2 key=37 loop_mode=one_shot lovel=40 hivel=127
 <region> sample=OH\snare2OFF_OH_F_1.wav lorand=0 hirand=0.1
 <region> sample=OH\snare2OFF_OH_F_2.wav lorand=0.1 hirand=0.2
 <region> sample=OH\snare2OFF_OH_F_3.wav lorand=0.2 hirand=0.3
@@ -153,7 +153,7 @@
 <region> sample=OH\snare2OFF_OH_F_9.wav lorand=0.8 hirand=0.9
 <region> sample=OH\snare2OFF_OH_F_10.wav lorand=0.9 hirand=1
 
-<group> amp_veltrack=98 volume=-2 key=37 loop_mode=one_shot lovel=1 hivel=39 seq_length=6
+<group> amp_veltrack=98 volume=-2 key=37 loop_mode=one_shot lovel=1 hivel=39
 <region> sample=OH\snare2OFF_OH_P_1.wav lorand=0 hirand=0.18
 <region> sample=OH\snare2OFF_OH_P_2.wav lorand=0.18 hirand=0.26
 <region> sample=OH\snare2OFF_OH_P_3.wav lorand=0.26 hirand=0.45
