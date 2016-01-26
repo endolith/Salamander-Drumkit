@@ -2,6 +2,8 @@
 
 Original files (including samples) from [linuxaudio.org](http://download.linuxaudio.org/musical-instrument-libraries/sfz/salamander_drumkit_v1.tar.7z) or [the Internet Archive](https://archive.org/details/SalamanderDrumkit)  (Both contain identical files except the first has a slightly expanded license description.)
 
+(I was going to fix up the errors and make it work in sforzando, but then discovered kinwie's version which already has these things fixed and seems to work fine, so I lost motivation.)  :D
+
 ## Original README ##
 
 As with the salamander grand piano, this has only been properly tested on linuxsampler but it should work with other sample
