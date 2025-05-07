@@ -4,8 +4,6 @@ Original files (including samples) from [linuxaudio.org](http://download.linuxau
 
 (I was going to fix up the errors and make it work in sforzando, but then discovered kinwie's version which already has these things fixed and seems to work fine, so I lost motivation.)  :D
 
-The original audio files in the above archives included some silent audio before the drum hits in almost all samples, causing unnecessary latency. Here is a ZIP with an edited set of the audio files from essej with the extra silence trimmed from them. They also correct some end of sample issues. So use the Salamander Drumkit Trim.sfz file instead when using the modified samples, which removes the unnecessary fixes made previously for the kick end offset. - [Trimmed Files](https://drive.google.com/file/d/1K1gbuUhSqlMem2sZI48NHSrqdJ6Uheh8/view?usp=sharing).
-
 ## Original README ##
 
 > As with the salamander grand piano, this has only been properly tested on linuxsampler but it should work with other sample
@@ -82,3 +80,7 @@ Salamander Drumkit.sfz is a modified version for Sforzando by kinwie ([KVR Audio
 > ---------------------
 > Enjoy!
 > kinwie@yahoo.com
+
+## Salamander Drumkit Trim.sfz by Jesse Chappell
+
+The original audio files in the above archives included some silent audio before the drum hits in almost all samples, causing unnecessary latency. Here is a ZIP with an edited set of the audio files from essej with the extra silence trimmed from them. They also correct some end of sample issues. So use the `Salamander Drumkit Trim.sfz` file instead when using the modified samples, which removes the unnecessary fixes made previously for the kick end offset. - [Trimmed Files](https://drive.google.com/file/d/1K1gbuUhSqlMem2sZI48NHSrqdJ6Uheh8/view?usp=sharing).
