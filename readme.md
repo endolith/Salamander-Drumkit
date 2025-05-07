@@ -47,7 +47,7 @@ Original files (including samples) from [linuxaudio.org](http://download.linuxau
 
 # sforzando version #
 
-Salamander Drumkit.sfz is a modified version for Sforzando by kinwie ([KVR Audio Forum post](http://www.kvraudio.com/forum/viewtopic.php?p=6189825#p6189825), original on [Dropbox](https://www.dropbox.com/s/i24fgjryj05w5gp/Salamander_Drumkit_sforzando.rar?dl=0)) 
+`Salamander Drumkit.sfz` is a modified version for Sforzando by kinwie ([KVR Audio Forum post](http://www.kvraudio.com/forum/viewtopic.php?p=6189825#p6189825), original on [Dropbox](https://www.dropbox.com/s/i24fgjryj05w5gp/Salamander_Drumkit_sforzando.rar?dl=0)) 
 
 
 ## Original README ##
@@ -83,4 +83,4 @@ Salamander Drumkit.sfz is a modified version for Sforzando by kinwie ([KVR Audio
 
 ## Salamander Drumkit Trim.sfz by Jesse Chappell
 
-The original audio files in the above archives included some silent audio before the drum hits in almost all samples, causing unnecessary latency. Here is a ZIP with an edited set of the audio files from essej with the extra silence trimmed from them. They also correct some end of sample issues. So use the `Salamander Drumkit Trim.sfz` file instead when using the modified samples, which removes the unnecessary fixes made previously for the kick end offset. - [Trimmed Files](https://drive.google.com/file/d/1K1gbuUhSqlMem2sZI48NHSrqdJ6Uheh8/view?usp=sharing).
+The original audio files in the above archives included some silent audio before the drum hits in almost all samples, causing unnecessary latency. Here is a ZIP with an edited set of the audio files from essej with the extra silence trimmed from them. They also correct some end of sample issues. So use the `Salamander Drumkit Trim.sfz` file instead when using the modified samples, which removes the unnecessary fixes made previously for the kick end offset. - [Trimmed Files](https://drive.google.com/file/d/1K1gbuUhSqlMem2sZI48NHSrqdJ6Uheh8/view?usp=sharing).  [`salamanderDrumkitSamplesFixedOnsets.zip` 385M MD5: 8080018e91ad940efd884dde65bad207]
