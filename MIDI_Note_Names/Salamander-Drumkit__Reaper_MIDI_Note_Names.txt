@@ -1,0 +1,43 @@
+# Salamander Drumkit - MIDI note name map for REAPER (tested in Reaper v7.38).
+#
+# Format:
+# MIDI_note_number new name
+# CC_number new name
+#
+# Usage: Open Reaper. Open a MIDI Item and click on File->Note/CC names->Load Note/CC names from file->Choose file...
+# Select this file
+#
+# examples:
+# 60 Middle C
+# CC7 Loudness
+
+35 Kick
+36 Kick2
+37 Snare2OFF
+38 Snare2
+39 SnareOFF
+40 Snare
+41 SnareStick
+42 Hihat Closed/SemiOpen
+43 LoTom
+44 Hihat Foot
+45 HiTom
+46 Hihat Open
+47 Cow Bell
+48 Ride2
+49 Ride2 Bell
+50 Ride2 Crash
+51 Ride2 CrashChoke
+52 Ride1
+53 Ride1 Bell
+54 Crash1Choke
+55 Crash1
+56 Crash2 Choke
+57 Crash2
+58 China1 Choke
+59 China1
+60 China2
+61 China2Choke
+62 Crash3
+63 Splash1
+64 Bell Chime
