@@ -84,24 +84,3 @@ Original files (including samples) from [linuxaudio.org](http://download.linuxau
 ## Salamander Drumkit Trim.sfz by Jesse Chappell
 
 The original audio files in the above archives included some silent audio before the drum hits in almost all samples, causing unnecessary latency. Here is a ZIP with an edited set of the audio files from essej with the extra silence trimmed from them. They also correct some end of sample issues. So use the `Salamander Drumkit Trim.sfz` file instead when using the modified samples, which removes the unnecessary fixes made previously for the kick end offset. - [Trimmed Files](https://drive.google.com/file/d/1K1gbuUhSqlMem2sZI48NHSrqdJ6Uheh8/view?usp=sharing).  [`salamanderDrumkitSamplesFixedOnsets.zip` 385M MD5: 8080018e91ad940efd884dde65bad207]
-
-## StudioRack (Open Audio Stack) discovery
-
-[StudioRack](https://github.com/studiorack/studiorack) indexes GitHub repositories that are tagged with the [`studiorack-plugin`](https://github.com/topics/studiorack-plugin) topic and that publish a GitHub **Release** whose assets include a file named exactly **`plugins.json`** (alongside the downloadable package). The crawler loads metadata from:
-
-`https://github.com/<owner>/<repo>/releases/download/<tag>/plugins.json`
-
-This repository includes a root-level [`plugins.json`](plugins.json) you can upload unchanged **after** editing the `version`, `date`, and each `files.*.size` field to match the byte sizes GitHub shows for your release assets.
-
-For each release, attach at minimum:
-
-1. **`plugins.json`** — same shape as in this repo; `files.linux`, `files.mac`, and `files.win` must reference a **`.zip`** asset on that same release (the same archive for all three is fine for SFZ + WAV data).
-2. **`SalamanderDrumkit.zip`** — zip containing the SFZ files from this repository plus the `.wav` sample tree from the [Internet Archive](https://archive.org/details/SalamanderDrumkit) (or another licensed copy of the kit). SFZ paths must match the layout inside the zip.
-3. **`SalamanderDrumkit.jpg`** — small cover or kit photo (StudioRack’s validator prefers JPEG previews).
-4. **`SalamanderDrumkit.flac`** — a short audio preview (FLAC is the format their tooling recommends).
-
-Then add the **`studiorack-plugin`** topic to the repository on GitHub (About → Topics). The [studiorack-registry](https://github.com/studiorack/studiorack-registry) job merges `plugins.json` with release assets; indexing runs on a daily schedule.
-
-**License on GitHub:** the registry rejects `license: other`. Set a repository license in GitHub that maps to a SPDX id StudioRack knows (for example **CC BY-SA 4.0** for this repo’s combined metadata and SFZ text, while keeping the original sample licensing described in the Original README above), so the API does not report a null license.
-
-YAML is used by the separate [Open Audio Stack registry](https://github.com/open-audio-stack/open-audio-stack-registry) for packages they host directly; for StudioRack’s GitHub-based flow, **`plugins.json` on the release** is the file their indexer expects.
