@@ -1,0 +1,36 @@
+{
+  "plugins": [
+    {
+      "author": "Alexander Holm (samples); kinwie (Sforzando SFZ); Jesse Chappell (trim variant)",
+      "homepage": "https://github.com/endolith/Salamander-Drumkit",
+      "name": "Salamander Drumkit",
+      "description": "Open source acoustic drum multisample library in SFZ format (Sforzando-ready mapping, optional trim variant). Samples are not stored in this repository; the release zip bundles SFZ files with the WAV set.",
+      "tags": ["instrument", "drums", "sfz", "sampler"],
+      "version": "1.0.0",
+      "id": "salamander-drumkit",
+      "date": "2011-01-01T00:00:00.000Z",
+      "files": {
+        "audio": {
+          "name": "SalamanderDrumkit.flac",
+          "size": 120000
+        },
+        "image": {
+          "name": "SalamanderDrumkit.jpg",
+          "size": 80000
+        },
+        "linux": {
+          "name": "SalamanderDrumkit.zip",
+          "size": 400000000
+        },
+        "mac": {
+          "name": "SalamanderDrumkit.zip",
+          "size": 400000000
+        },
+        "win": {
+          "name": "SalamanderDrumkit.zip",
+          "size": 400000000
+        }
+      }
+    }
+  ]
+}
